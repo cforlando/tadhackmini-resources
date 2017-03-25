@@ -30,3 +30,10 @@
   <li>It's easier to solve problems you understand, try to think about something that has affected you!</li>
   <li>Civic problems don't have to be big. You can't cure hunger in one hackathon but perhaps you can solve something small. <i>Which parks have soccer feilds again? </i>
   <li>Done is better than Perfect. :)
+
+
+<a href="http://bit.ly/cfoslack">Join Our Slack</a>
+
+<a href="http://bit.ly/cfomeetup">Join Our Meetup</a>
+
+<a href="http://bit.ly/donatecfo">Donate</a>
